@@ -4,6 +4,9 @@ This repo is an example of how to implement Solid SSR using HarperDB Resources t
 
 It includes complete client side hydration as well, resulting in a fully interactive web app experience.
 
+> [!TIP]
+> Watch a walkthrough of this example here: [Server-side Rendering (SSR) with Multi-Tier Cache Demo](https://youtu.be/L-tnBNhO9Fc)
+
 ## Get Started
 
 1. `npm i`
